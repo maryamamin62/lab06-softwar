@@ -1,1 +1,1 @@
-# lab06-softwar
+# lab06-software
